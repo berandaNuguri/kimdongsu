@@ -1,8 +1,8 @@
 # Skills
 # Programming Languages
-- skill: Programming Languages
-  description: [Advanced] Python [Intermediate] C
+- skill: "Programming Languages"
+  description: "[Advanced] Python [Intermediate] C"
 
 # Tools and Frameworks
-- skill: Tools and Frameworks
-  description: Pytorch, VI/VIM
+- skill: "Tools and Frameworks"
+  description: "Pytorch, VI/VIM"
