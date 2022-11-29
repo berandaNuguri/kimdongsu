@@ -1,5 +1,5 @@
 # Site settings
-title: "KimDongSu' CV"
+title: "KimDongSu's CV"
 description: "Site can watch KimDongSu's CV"
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "KIm DongSu"
+resume_name:                    "Kim DongSu"
 resume_title:                   "Computer Engineering 2nd year"
 
 # used for the contact button in _layouts/resume.html
