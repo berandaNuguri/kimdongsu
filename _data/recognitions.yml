@@ -2,9 +2,14 @@
 - award: SW-Centered Univ. AI Competition Preliminaries
   organization: SW-Centered University, DACON
   year: 2022
-  summary: 1/192(Top 1%), Classification to psychological disposition by analyzing psychology test data.
+  summary: 1/192(Top 1%)
 
 - award: SW-Centered Univ. AI Competition Final
   organization: SW-Centered University, DACON
   year: 2022
-  summary: 10/77(Top 12%), Develop an "Optical Character Recognition (OCR)" model that can detect and recognize text in sign images.
+  summary: 10/77(Top 12%)
+
+- award: Creative Design Contest with the underprivileged
+  organization: Share & Tech
+  year: 2022
+  summary: Special Award(Hanbat National Univ. President's Award)
